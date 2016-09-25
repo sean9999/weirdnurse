@@ -1,0 +1,23 @@
+{
+  "name": "@sean9999/weirdnurse",
+  "version": "1.0.0",
+  "description": "A server and cli, for example and experimentation purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean9999/weirdnurse.git"
+  },
+  "keywords": [
+    "weird",
+    "nurse"
+  ],
+  "author": "Sean Macdonald <sean@crazyhorsecoding.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sean9999/weirdnurse/issues"
+  },
+  "homepage": "https://github.com/sean9999/weirdnurse#readme"
+}
